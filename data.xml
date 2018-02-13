@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Animals>
+    <Name>Elephant</Name>
+    <Questions>Does your animal have a trunk?|Is your animal grey?|Does your animal make trumpet sounds?</Questions>
+  </Animals>
+  <Animals>
+    <Name>Horse</Name>
+    <Questions>Does your animal have hooves?|Does your animal wear shoes?|Does your animal Gallop?|Does your animal trot?</Questions>
+  </Animals>
+  <Animals>
+    <Name>Dog</Name>
+    <Questions>Can your animal be kept as a pet?|Does your animal bark?</Questions>
+  </Animals>
+</DocumentElement>

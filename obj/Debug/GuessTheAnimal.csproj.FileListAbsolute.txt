@@ -1,0 +1,7 @@
+C:\Users\Jeff\source\repos\GuessTheAnimal\GuessTheAnimal\bin\Debug\GuessTheAnimal.exe.config
+C:\Users\Jeff\source\repos\GuessTheAnimal\GuessTheAnimal\bin\Debug\GuessTheAnimal.exe
+C:\Users\Jeff\source\repos\GuessTheAnimal\GuessTheAnimal\bin\Debug\GuessTheAnimal.pdb
+C:\Users\Jeff\source\repos\GuessTheAnimal\GuessTheAnimal\obj\Debug\GuessTheAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\GuessTheAnimal\GuessTheAnimal\obj\Debug\GuessTheAnimal.exe
+C:\Users\Jeff\source\repos\GuessTheAnimal\GuessTheAnimal\obj\Debug\GuessTheAnimal.pdb
+C:\Users\Jeff\source\repos\GuessTheAnimal\GuessTheAnimal\bin\Debug\data.xml
